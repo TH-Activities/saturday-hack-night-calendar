@@ -16,3 +16,6 @@
 [submodule "Incredibles | g8q08BM9bqlWqB8j0qWj"]
 	path = Incredibles | g8q08BM9bqlWqB8j0qWj
 	url = https://github.com/NazimFilzer/Saturday-hack-night-1
+[submodule "CrypticPlan | 67sUiZWx1A0NugvEJQy7"]
+	path = CrypticPlan | 67sUiZWx1A0NugvEJQy7
+	url = https://github.com/adhilameenet/SHN-CalendarAPI
